@@ -2,3 +2,4 @@ pandas
 numpy
 dill
 streamlit
+scikit-learn
