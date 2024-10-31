@@ -1,9 +1,13 @@
 # YouTube Channel Recommendation System
-=====================================
+
 
 A content-based recommendation system built using Python, Streamlit, and scikit-learn.
 
 <img src="images/youtube recommendation.png" alt="YouTube Channel Recommender System" width="600">
+
+## Live Demo
+
+👉 [Live Demo](https://youtube-channel-recommendation.streamlit.app/)
 
 ## Table of Contents
 -----------------
